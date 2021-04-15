@@ -32,7 +32,7 @@
 <code><img height="26" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="26" scr="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
 <code><img height="26" scr="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-<code><img height="26" scr="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="26" scr="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
 ---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundtheamateur&layout=compact&theme=dark" alt="Mukund Shukla" /></p>
