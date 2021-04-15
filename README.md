@@ -29,9 +29,7 @@
 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="26" scr="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png"></code>
-<code><img height="26" scr="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 <code><img height="26" scr="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bootstrap.png"></code>
 ---
 
