@@ -9,9 +9,6 @@
 <a href="mailto:mukundshukla000@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://dev.to/mukundtheamateur">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev.svg" />
-</a>
 <br />
 
 ### About Me 🚀
