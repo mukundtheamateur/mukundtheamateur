@@ -33,14 +33,14 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4nshul&layout=compact&theme=dark" alt="Pranshul Aggarwal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundtheamateur&layout=compact&theme=dark" alt="Mukund Shukla" /></p>
 
 <p align="center">
 <a href="https://github.com/mukundtheamateur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundtheamateur&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundtheamateur &theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/mukundtheamateur">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundtheamateur&show_icons=true&theme=dark&line_height=20" alt="Mukund's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundtheamateur &show_icons=true&theme=dark&line_height=20" alt="Mukund's github stats"/>
 </a>
 </p>
 
