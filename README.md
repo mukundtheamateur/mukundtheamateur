@@ -17,7 +17,7 @@
 
 ### My Experiences 🙌
 - Selected in final round of Toycathon 2021 in physical category.
-
+- Completed Hacktoberfest 2020 challenge
 
 [![GitHub Mukund Shukla](https://img.shields.io/github/followers/mukundtheamateur?label=follow&style=social)](https://github.com/mukundtheamateur)
 
