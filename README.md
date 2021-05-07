@@ -20,6 +20,7 @@
 - Completed Hacktoberfest 2020 challenge
 
 [![GitHub Mukund Shukla](https://img.shields.io/github/followers/mukundtheamateur?label=follow&style=social)](https://github.com/mukundtheamateur)
+<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=mukundtheamateur.profile.id">
 
 
 **Languages and Tools:**  
