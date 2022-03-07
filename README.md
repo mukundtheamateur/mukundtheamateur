@@ -11,7 +11,7 @@
 </a>
 <br />
 
-### <a href="https://mukundtheamateur.github.io/mukundshukla/" target=_blank>Click here to see my portfolio website</a>
+### <a href="https://mukundtheamateur.github.io/mukundshukla/" target="_blank">Click here to see my portfolio website</a>
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Communication Engineering. </br>
