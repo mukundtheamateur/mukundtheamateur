@@ -11,7 +11,7 @@
 </a>
 <br />
 
-### <a href="https://linktr.ee/mukundtheamateur' target="_blank">Click here to know more about me</a>
+### <a href="https://linktr.ee/mukundtheamateur" target="_blank">Click here to know more about me</a>
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Communication Engineering. </br>
