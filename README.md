@@ -17,9 +17,9 @@
 🎓 I’m a junior pursuing my Bachelors in Electronics and Communication Engineering. </br>
 👨‍💻  I am a web developer and have interest in Machine learning ,and always looking to explore new things . </br>
 
-### My Experiences 🙌
+<!-- ### My Experiences 🙌
 - Selected in final round of Toycathon 2021 in physical category.
-- Completed Hacktoberfest 2020 challenge
+- Completed Hacktoberfest 2020 challenge -->
 
 [![GitHub Mukund Shukla](https://img.shields.io/github/followers/mukundtheamateur?label=follow&style=social)](https://github.com/mukundtheamateur)
 <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=mukundtheamateur.profile.id">
