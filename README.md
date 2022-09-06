@@ -14,7 +14,7 @@
 ### <a href="https://linktr.ee/mukundtheamateur" target="_blank">Click here to know more about me</a>
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Communication Engineering. </br>
+🎓 I’m a junior pursuing my Bachelors in Electronics and Communication Engineering. </br>
 👨‍💻  I am a web developer and have interest in Machine learning ,and always looking to explore new things . </br>
 
 ### My Experiences 🙌
