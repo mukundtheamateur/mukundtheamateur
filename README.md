@@ -11,7 +11,7 @@
 </a>
 <br />
 
-### <a href="https://linktr.ee/mukundtheamateur" target="_blank">Click here to know more about me</a>
+### <a href="https://mukunds.vercel.app" target="_blank">Click here to know more about me</a>
 
 ![image](https://media.tenor.com/zKHDose_0kYAAAAM/code-debugging.gif)
 
