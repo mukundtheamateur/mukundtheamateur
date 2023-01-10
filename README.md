@@ -11,9 +11,7 @@
 </a>
 <br />
 
-### <a href="https://mukunds.vercel.app" target="_blank">Click here to know more about me</a>
-
-![image](https://media.tenor.com/zKHDose_0kYAAAAM/code-debugging.gif)
+[image](https://media.tenor.com/zKHDose_0kYAAAAM/code-debugging.gif)
 
 ### About Me 🚀
 👨‍💻  I am a full stack web developer and have interest in Machine learning ,and always looking to explore new things . </br>
@@ -22,6 +20,9 @@
 - Under Top 5 Smart India Hackathon 2022 Software Edition, MHRD
 - Under Top 8 Toycathon 2021 Physical Edition, MHRD
 - Under Top 13 Innerve 6 Hackathon, AIT Pune
+
+
+### <a href="https://mukunds.vercel.app" target="_blank">Click here to know more about me</a>
 
 [![GitHub Mukund Shukla](https://img.shields.io/github/followers/mukundtheamateur?label=follow&style=social)](https://github.com/mukundtheamateur)
 <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=mukundtheamateur.profile.id">
