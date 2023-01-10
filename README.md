@@ -16,12 +16,12 @@
 ![image](https://media.tenor.com/zKHDose_0kYAAAAM/code-debugging.gif)
 
 ### About Me 🚀
-🎓 I’m a junior pursuing my Bachelors in Electronics and Communication Engineering. </br>
-👨‍💻  I am a web developer and have interest in Machine learning ,and always looking to explore new things . </br>
+👨‍💻  I am a full stack web developer and have interest in Machine learning ,and always looking to explore new things . </br>
 
-<!-- ### My Experiences 🙌
-- Selected in final round of Toycathon 2021 in physical category.
-- Completed Hacktoberfest 2020 challenge -->
+### My Experiences 🙌
+- Under Top 5 Smart India Hackathon 2022 Software Edition, MHRD
+- Under Top 8 Toycathon 2021 Physical Edition, MHRD
+- Under Top 13 Innerve 6 Hackathon, AIT Pune
 
 [![GitHub Mukund Shukla](https://img.shields.io/github/followers/mukundtheamateur?label=follow&style=social)](https://github.com/mukundtheamateur)
 <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=mukundtheamateur.profile.id">
