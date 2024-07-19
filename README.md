@@ -20,6 +20,7 @@
 - Under Top 5 Smart India Hackathon 2022 Software Edition, MHRD
 - Under Top 8 Toycathon 2021 Physical Edition, MHRD
 - Under Top 13 Innerve 6 Hackathon, AIT Pune
+- Winner of National Science Day, Chandigarh Engineering College
 
 
 ### <a href="https://mukunds.vercel.app" target="_blank">Click here to know more about me</a>
