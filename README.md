@@ -14,7 +14,7 @@
 [image](https://media.tenor.com/zKHDose_0kYAAAAM/code-debugging.gif)
 
 ### About Me 🚀
-👨‍💻  I am a full stack web developer and have interest in Machine learning ,and always looking to explore new things . </br>
+👨‍💻  I am a Software Engineer and have interest in Machine learning ,and always looking to explore new things . </br>
 
 ### My Experiences 🙌
 - Under Top 5 Smart India Hackathon 2022 Software Edition, MHRD
